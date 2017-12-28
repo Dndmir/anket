@@ -1,8 +1,8 @@
 <?php
 
-namespace kouosl\sample\models;
+namespace kouosl\anket\models;
 
-use kouosl\sample\Module;
+use kouosl\anket\Module;
 use Yii;
 
 /**
